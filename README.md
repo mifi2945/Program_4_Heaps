@@ -1,7 +1,7 @@
 # Program 4: Benchmarking Heaps
 
-- [ ] A brief introduction to the assignment, including a description of the experiments being performed.
-- [ ] A description of your planned approach to benchmarking and predictions for the results. You should benchmark using three datasets:
+- [X] A brief introduction to the assignment, including a description of the experiments being performed.
+- [X] A description of your planned approach to benchmarking and predictions for the results. You should benchmark using three datasets:
   - [ ] increasing sorted array
   - [ ] decreasing reverse sorted
   - [ ] random shuffled
@@ -10,7 +10,7 @@
 - [ ] A brief narrative description of data used and the results from running the benchmarks. Make sure to have both sufficiently-large and sufficiently-many benchmarks.
 - [ ] A table and graph for each function, showing its results for each case.
 - [ ] A table and graph for each case, showing the results for each function
-- [ ] An analysis using the regression techniques from the second homework to estimate the asymptotic time complexity for each best.
+- [ ] An analysis using the regression techniques from the second homework to estimate the asymptotic time complexity for each case.
 - [ ] 1-2 paragraphs of text summarizing all interesting results.
 
 Answers to the following:

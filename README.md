@@ -6,7 +6,7 @@
   - [ ] decreasing reverse sorted
   - [ ] random shuffled
 - [X] For each approach to heapifying, predict which case will perform the best, and predict the asymptotic running time.
-- [ ] Source code for your heapification approachs, together with explanations of what each function does.
+- [X] Source code for your heapification approachs, together with explanations of what each function does.
 - [ ] A brief narrative description of data used and the results from running the benchmarks. Make sure to have both sufficiently-large and sufficiently-many benchmarks.
 - [ ] A table and graph for each function, showing its results for each case.
 - [ ] A table and graph for each case, showing the results for each function

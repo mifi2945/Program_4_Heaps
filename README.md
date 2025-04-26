@@ -19,4 +19,4 @@ Answers to the following:
   - Was there a noticeable difference between sorted, reverse-sorted, and random data? *if so, describe the difference and explain why you think it exists
 * What runtime effect do you get by using heapify vs. adding all elements to an empty heap? Explain!
 * Compare bubbling down and stopping short to bubbling all the way down, then back up. When might each approach be better?
-- [ ] An appendix containing all of your source code and test cases.
+- [X] An appendix containing all of your source code and test cases.

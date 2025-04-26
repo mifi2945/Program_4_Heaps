@@ -11,7 +11,7 @@
 - [X] A table and graph for each function, showing its results for each case.
 - [X] A table and graph for each case, showing the results for each function
 - [X] An analysis using the regression techniques from the second homework to estimate the asymptotic time complexity for each case.
-- [ ] 1-2 paragraphs of text summarizing all interesting results.
+- [X] 1-2 paragraphs of text summarizing all interesting results.
 
 Answers to the following:
 * For each approach:

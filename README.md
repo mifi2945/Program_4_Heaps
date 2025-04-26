@@ -7,10 +7,10 @@
   - [X] random shuffled
 - [X] For each approach to heapifying, predict which case will perform the best, and predict the asymptotic running time.
 - [X] Source code for your heapification approachs, together with explanations of what each function does.
-- [ ] A brief narrative description of data used and the results from running the benchmarks. Make sure to have both sufficiently-large and sufficiently-many benchmarks.
-- [ ] A table and graph for each function, showing its results for each case.
-- [ ] A table and graph for each case, showing the results for each function
-- [ ] An analysis using the regression techniques from the second homework to estimate the asymptotic time complexity for each case.
+- [X] A brief narrative description of data used and the results from running the benchmarks. Make sure to have both sufficiently-large and sufficiently-many benchmarks.
+- [X] A table and graph for each function, showing its results for each case.
+- [X] A table and graph for each case, showing the results for each function
+- [X] An analysis using the regression techniques from the second homework to estimate the asymptotic time complexity for each case.
 - [ ] 1-2 paragraphs of text summarizing all interesting results.
 
 Answers to the following:

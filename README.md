@@ -2,9 +2,9 @@
 
 - [X] A brief introduction to the assignment, including a description of the experiments being performed.
 - [X] A description of your planned approach to benchmarking and predictions for the results. You should benchmark using three datasets:
-  - [ ] increasing sorted array
-  - [ ] decreasing reverse sorted
-  - [ ] random shuffled
+  - [X] increasing sorted array
+  - [X] decreasing reverse sorted
+  - [X] random shuffled
 - [X] For each approach to heapifying, predict which case will perform the best, and predict the asymptotic running time.
 - [X] Source code for your heapification approachs, together with explanations of what each function does.
 - [ ] A brief narrative description of data used and the results from running the benchmarks. Make sure to have both sufficiently-large and sufficiently-many benchmarks.
